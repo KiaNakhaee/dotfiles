@@ -1,0 +1,51 @@
+font:
+  # The normal (roman) font face to use.
+  normal:
+    family: JetBrains Mono NF
+    # Style can be specified to pick a specific face.
+    style: Regular
+
+  # The bold font face
+  bold:
+    family: JetBrains Mono NF
+    # Style can be specified to pick a specific face.
+    style: Bold
+
+  # The italic font face
+  italic:
+    family: JetBrains Mono NF
+    # Style can be specified to pick a specific face.
+    style: Italic
+
+  size: 13.0
+    
+
+colors:
+  # Default colors
+  primary:
+    # background: "#232731"
+    background: "#1f2227"
+    foreground: "#abb2bf"
+
+  # Normal colors
+  # Nord
+  normal:
+    black: "#4C566A"
+    red: "#bf616a"
+    green: "#A3BE8C"
+    yellow: "#D7BA7D"
+    blue: "#5e81ac"
+    magenta: "#B48EAD"
+    cyan: "#88c0d0"
+    white: "#abb2bf"
+
+  # Bright colors
+  bright:
+    black: "#4C566A"
+    red: "#bf616a"
+    green: "#A3BE8C"
+    yellow: "#D7BA7D"
+    blue: "#5e81ac"
+    magenta: "#B48EAD"
+    cyan: "#88c0d0"
+    white: "#abb2bf"
